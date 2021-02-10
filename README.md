@@ -7,6 +7,6 @@ Language:Python
 
 Algorithms used for classification: Logistic Regression, Random Forest, Clustering
 
-Achieved Accuracy of 85% through Random Forest and Clustering out performing Logistic Regression.
+Achieved Accuracy of 86% through Random Forest and Clustering out performing Logistic Regression.
 
 Interest Rate, Credit Policy, Small business & education as purpose, annual income are important factors for predicting loan defaulting.
